@@ -1,0 +1,4 @@
+FROM:from@gmail.com
+CC:cc@gmail.com
+BCC:
+SUB:テストメール
